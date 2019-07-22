@@ -1,12 +1,21 @@
-# Project: rest-tester
+# Basic Routes, Views and Controllers
+### A Rails project center around HTTP requests using the RestClient gem
+#### Project 3
 
-This is the one of projects of the Main Ruby on Rails curriculum at [Microverse](https://www.microverse.org/)
-* The goal was to understand how requests work using RestClient.
-* The project was completed using Ruby on Rails & the RestClient gem.
+## Getting Started
 
-#### [Assignment link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers)  
+To get started with the app, clone the repo and then install the needed gems:
 
-#### Authors
+```
+$ bundle install --without production
+```
 
-* [@FSolM](https://github.com/https://github.com/FSolM)
-* [@codingAngarita](https://github.com/codingAngarita)
+Run the app in a local server:
+
+```
+$ rails server
+```
+
+#### Created by:
+Carlos Sol: <a href="https://github.com/FSolM">@FSolM</a><br>
+Juan Escobar: <a href="https://github.com/codingAngarita">@codingAngarita</a>
