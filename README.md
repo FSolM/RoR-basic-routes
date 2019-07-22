@@ -1,4 +1,4 @@
-# Project: Getting Your Feet Wet
+# Project: rest-tester
 
 This is the one of projects of the Main Ruby on Rails curriculum at [Microverse](https://www.microverse.org/)
 * The goal was to understand how requests work using RestClient.
