@@ -10,6 +10,11 @@ To get started with the app, clone the repo and then install the needed gems:
 $ bundle install --without production
 ```
 
+Migrate the DB:
+```
+$ rake db:migrate
+```
+
 Run the app in a local server:
 
 ```
